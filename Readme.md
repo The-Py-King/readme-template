@@ -1,12 +1,4 @@
-
-<h1 id="Heading" style="
-  text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 3rem;
-  color: #39FF14;
-  text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #FF073A;>
-  <span style="color: #39FF14;">README Template</span>
-</h1>
+<h1 id="Heading" align="center">Readme Template</h1>
 
 <p align="center">
 <img src="./assets/banner.png" width="100%" height="500"/>
