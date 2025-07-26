@@ -424,7 +424,7 @@ This project uses the following open-source packages:
 
 [**⬆ Back to Top**](#Heading)
 
-<p>Made with ❤️ and ☕ by <a href="https://github.com/The-Py-King">Developer Name</a></p>
+<p>Made with ❤️ and ☕ by <a href="https://github.com/The-Py-King">The Py King</a></p>
   <p>
 <a href="https://twitter.com/username">🐦 Twitter</a> |
     <a href="https://dev.to/username">📝 Blog</a> |
